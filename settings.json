@@ -1,3 +1,6 @@
+
+token color customizations 
+autosave true
 {
     "window.zoomLevel": 0, 
     "workbench.colorCustomizations": {
